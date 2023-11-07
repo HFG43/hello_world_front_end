@@ -12,8 +12,6 @@ function Greeting() {
 
   return (
     <div>
-      <p>test</p>
-      <p>{console.log(greetings)}</p>
       <p>{greetings.greeting}</p>
     </div>
   );
